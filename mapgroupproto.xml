@@ -1772,7 +1772,7 @@
 						<point pos="-1.057128 -1.211449 -12.194336" range="1.178711" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_City_Store_WithStairs" lootmax="10">
+		<group name="Land_City_Store_WithStairs" lootmax="15">
 				<usage name="Town" />
 				<usage name="School" />
 				<usage name="Office" />
@@ -10416,7 +10416,7 @@
 						<point pos="1.533569 -1.503838 2.144874" range="0.100000" height="0.250000" />
 				</container>
 		</group>
-		<group name="Land_Medical_Tent_Big" lootmax="8">
+		<group name="Land_Medical_Tent_Big" lootmax="12">
 				<usage name="Medic" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -15404,7 +15404,7 @@
 						<point pos="0.598267 -6.680296 -0.737671" range="0.773234" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Lunapark_Carousel_Swan" lootmax="3">
+		<group name="Land_Lunapark_Carousel_Swan" lootmax="5">
 				<usage name="Village" />
 				<usage name="Town" />
 				<container name="lootFloor" lootmax="2">
