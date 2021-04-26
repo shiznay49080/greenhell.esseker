@@ -59,6 +59,6 @@ Example messages:
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
-        <text>This server is under development and may change at anytime.  If you think we're doing something right, please spread the word!</text>
+        <text>Join our discord at https://discord.io/greenhell</text>
     </message>
 </messages>
