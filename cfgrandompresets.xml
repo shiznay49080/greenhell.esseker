@@ -14,6 +14,13 @@
 				<item name="PeachesCan" chance="0.10" />
 				<item name="SpaghettiCan" chance="0.10" />
 				<item name="BakedBeansCan" chance="0.10" />
+				<item name="Pajka" chance="0.1" />
+				<item name="Pate" chance="0.1" />
+				<item name="BrisketSpread" chance="0.1" />
+				<item name="Pajka" chance="0.1" />
+				<item name="SaltySticks" chance="0.2" />
+				<item name="Crackers" chance="0.2" />
+				<item name="Chips" chance="0.2" />
 		</cargo>
 		<cargo chance="0.16" name="foodCity"> <!--same as the one above - just preparing -->
 				<item name="SodaCan_Cola" chance="0.05" />
@@ -24,6 +31,13 @@
 				<item name="PeachesCan" chance="0.10" />
 				<item name="SpaghettiCan" chance="0.10" />
 				<item name="BakedBeansCan" chance="0.10" />
+				<item name="Pajka" chance="0.1" />
+				<item name="Pate" chance="0.1" />
+				<item name="BrisketSpread" chance="0.1" />
+				<item name="Pajka" chance="0.1" />
+				<item name="SaltySticks" chance="0.2" />
+				<item name="Crackers" chance="0.2" />
+				<item name="Chips" chance="0.2" />
 		</cargo>
 		<cargo chance="0.1" name="foodArmy">
 				<item name="SodaCan_Cola" chance="0.05" />
@@ -36,6 +50,13 @@
 				<item name="BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Canteen" chance="0.1" />
+				<item name="Pajka" chance="0.1" />
+				<item name="Pate" chance="0.1" />
+				<item name="BrisketSpread" chance="0.1" />
+				<item name="Pajka" chance="0.1" />
+				<item name="SaltySticks" chance="0.1" />
+				<item name="Crackers" chance="0.1" />
+				<item name="Chips" chance="0.1" />
 		</cargo>
 		<cargo chance="0.15" name="toolsHermit">
 				<item name="Matchbox" chance="0.15" />
