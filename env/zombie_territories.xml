@@ -9,6 +9,8 @@
 		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="8629.82" z="5902.56" r="75"/> // esseker slums
 		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="8565.77" z="9915.49" r="75"/> // igman east solitary house
 		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="11512.64" z="7138.96" r="75"/> // east solitary house
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="9685.90" z="8559.92" r="75"/> // north church ruins town east
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="8" x="9525.02" z="8498.40" r="75"/> // north church ruins north
     </territory>
     <!--<territory color="4290351729">
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12847.5" z="15075" r="120"/>
@@ -51,8 +53,9 @@
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="4" x="6593.13" z="6057.97" r="60"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="2" x="6345.01" z="6961.9" r="50"/>
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="4761.26" z="5151.24" r="50"/> // kula industrial
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="9589.46" z="9579.95" r="90"/> // south west of borosh farm industrial
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="11474.90" z="9400.90" r="90"/> // east of borosh farm industrial
-		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="11143.88" z="9063.88" r="90"/> // south east of borosh industrial
+		<zone name="InfectedIndustrial" smin="1" smax="3" dmin="2" dmax="5" x="11143.88" z="9111.95" r="90"/> // south east of borosh industrial
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="9572.49" z="9600.41" r="90"/> // solitary industrial farm water source
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="7357.58" z="5334.85" r="90"/> // matija weiss college construction
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8193.31" z="5618.08" r="90"/> // west industrial
@@ -60,7 +63,8 @@
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8248.41" z="5429.09" r="90"/> // west industrial
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8040.51" z="5646.86" r="90"/> // west industrial
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8076.19" z="5780.47" r="90"/> // west industrial
-
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="9392.61" z="5822.40" r="90"/> // esseker north train station
+		<zone name="InfectedIndustrial" smin="2" smax="5" dmin="3" dmax="7" x="9042.65" z="7906.49" r="90"/> // pilana sawmill
     </territory>
     <territory color="1790009876">
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="1" dmax="3" x="6502.79" z="2335.25" r="50"/>
@@ -122,6 +126,10 @@
 		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="8968.36" z="9750.00" r="75"/> // solitary farm house
 		<zone name="InfectedVillage" smin="1" smax="3" dmin="3" dmax="7" x="9159.33" z="9694.65" r="75"/> // solitary farm house water source
 		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="10199.32" z="9916.63" r="75"/> // borosh east farm
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="12" x="9604.81" z="8538.04" r="100"/> // north church ruins town
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="8880.51" z="5842.46" r="75"/> // north town esseker city
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="8839.59" z="5760.59" r="75"/> // south of north town esseker city
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="9469.88" z="7287.45" r="75"/> // south of pilana sawmill
     </territory>
     <territory color="1794965508">
         <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="4" x="10093" z="9880.99" r="50"/>
@@ -175,12 +183,17 @@
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11828.68" z="8120.69" r="75"/> // novi grad north
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11944.60" z="7954.56" r="75"/> // novi grad east
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="11936.07" z="7772.71" r="75"/> // novi grad south
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="9004.09" z="5691.01" r="75"/> // esseker school
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="9999.92" z="5686.21" r="75"/> // esseker market
+		<zone name="InfectedCity" smin="8" smax="12" dmin="10" dmax="23" x="9935.27" z="5745.86" r="150"/> // esseker apartments
     </territory>
     <territory color="1291845632">
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="7019.36" z="9322.33" r="50"/>
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="6196.01" z="6941.69" r="50"/>
 		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="4857.97" z="5086.95" r="50"/> // kula church
 		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="11828.23" z="7934.57" r="50"/> // novi grad church
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="3" dmax="8" x="9522.22" z="8474.60" r="50"/> // north church ruins inside
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="9522.22" z="8501.00" r="75"/> // north church ruins out front
     </territory>
     <territory color="2387830984">
         <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="4" x="11814.86" z="7963.97" r="50"/> // novi grad hospital
