@@ -609,6 +609,7 @@
 	</type>
 	<type name="PoliceJacket">
 		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
 	</type>
 	<type name="PolicePants">
 		<cargo preset="foodVillage" />
@@ -616,6 +617,7 @@
 	</type>
 	<type name="PoliceJacketOrel">
 		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
 	</type>
 	<type name="PolicePantsOrel">
 		<cargo preset="foodVillage" />
@@ -1476,19 +1478,22 @@
 	<!-- -----------------------------Police----------------------------- -->
 	<type name="ZmbF_PoliceWomanNormal">
 		<cargo preset="toolsPolice" />
-		<attachments preset="glassesVillage" />
+		<cargo preset="ammoPolice" />
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
 	<type name="ZmbM_PolicemanFat">
 		<cargo preset="toolsPolice" />
-		<attachments preset="glassesVillage" />
+		<cargo preset="ammoPolice" />
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
 	<type name="ZmbM_PolicemanSpecForce">
 		<cargo preset="toolsPolice" />
-		<attachments preset="glassesVillage" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.1">
+			<item name="Mag_Scout_5Rnd" chance="1.0" />
+		</cargo>
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
@@ -2098,6 +2103,18 @@
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.20" />
 		</attachments>
 	</type>
+    <type name="Scout">
+        <attachments chance="0.30">
+            <item name="Mag_Scout_5Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="M68Optic" chance="0.60" />
+            <item name="ACOGOptic" chance="0.40" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="M4_Suppressor" chance="1.00" />
+        </attachments>
+    </type>
 	<type name="Ruger1022">
 		<attachments chance="0.10">
 			<item name="HuntingOptic" chance="1.00" />
@@ -2115,6 +2132,17 @@
 	<type name="Deagle_Gold">
 		<attachments chance="0.05">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Scout">
+		<attachments chance="0.75">
+			<item name="Mag_Scout_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="M4_T3NRDSOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.25" />
+			<item name="ACOGOptic" chance="0.25" />
+			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 <!-- FUTURE
