@@ -10416,9 +10416,9 @@
 						<point pos="1.533569 -1.503838 2.144874" range="0.100000" height="0.250000" />
 				</container>
 		</group>
-		<group name="Land_Medical_Tent_Big" lootmax="12">
+		<group name="Land_Medical_Tent_Big" lootmax="10">
 				<usage name="Medic" />
-				<container name="lootFloor">
+				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
