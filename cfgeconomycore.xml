@@ -38,6 +38,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     <ce folder="db">
       	<file name="WindstridesClothingPack_types.xml" type="types" />
         <file name="types_notes.xml" type="types" />
-        <file name="types_boneknives.xml" type="types" />
 	</ce>
 </economycore>
