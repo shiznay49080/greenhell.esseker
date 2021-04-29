@@ -3171,7 +3171,7 @@
         <category name="tools"/>
     </type>
     <type name="CanisterGasoline">
-        <nominal>40</nominal>
+        <nominal>50</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>30</min>
