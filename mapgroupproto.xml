@@ -9064,7 +9064,7 @@
 						<point pos="4.358397 -5.945908 -2.705078" range="0.443750" height="0.532425" />
 						<point pos="3.162110 -6.389900 -7.377197" range="0.443750" height="1.109375" />
 				</container>
-				<container name="lootweapons" lootmax="10">
+				<container name="lootweapons" lootmax="6">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="4.013672 -5.529900 4.665038" range="0.100000" height="0.250000" />
