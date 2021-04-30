@@ -5536,7 +5536,7 @@
 						<point pos="-0.570801 -0.665321 -1.100830" range="0.319092" height="0.797729" />
 				</container>
 		</group>
-		<group name="Land_Train_Wagon_Box" lootmax="4">
+		<group name="Land_Train_Wagon_Box" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Village" />
 				<container name="lootFloor">
@@ -8337,9 +8337,9 @@
 						<point pos="3.803129 -0.592621 9.717731" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Village_PoliceStation" lootmax="15">
+		<group name="Land_Village_PoliceStation" lootmax="10">
 				<usage name="Police" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8372,7 +8372,7 @@
 						<point pos="4.716659 -6.022827 -3.295007" range="0.471681" height="1.179199" />
 						<point pos="4.296305 -6.220306 -4.651400" range="0.578126" height="1.445313" />
 				</container>
-				<container name="lootshelves" lootmax="10">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -10458,7 +10458,7 @@
 						<point pos="-1.798197 1.030388 0.705568" range="0.134375" height="0.335938" />
 				</container>
 		</group>
-		<group name="Land_Village_HealthCare" lootmax="15">
+		<group name="Land_Village_HealthCare" lootmax="10">
 				<usage name="Medic" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -10839,7 +10839,7 @@
 						<point pos="-0.746227 -0.397102 0.430710" range="0.427940" height="0.253947" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Camp_House_red" lootmax="8">
+		<group name="Land_Camp_House_red" lootmax="4">
 				<usage name="Hunting" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -10885,7 +10885,7 @@
 						<point pos="3.709741 -1.346848 2.698318" range="0.443750" height="1.109375" />
 				</container>
 		</group>
-		<group name="Land_Camp_House_white" lootmax="8">
+		<group name="Land_Camp_House_white" lootmax="4">
 				<usage name="Hunting" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -10924,7 +10924,7 @@
 						<point pos="3.583814 -1.341988 -2.711381" range="0.409375" height="1.023407" />
 				</container>
 		</group>
-		<group name="Land_Camp_House_brown" lootmax="8">
+		<group name="Land_Camp_House_brown" lootmax="4">
 				<usage name="Hunting" />
 				<container name="lootFloor">
 						<category name="tools" />

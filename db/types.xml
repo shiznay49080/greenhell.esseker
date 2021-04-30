@@ -3122,7 +3122,7 @@
         <usage name="Police"/>
     </type>
     <type name="CableReel">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -13375,7 +13375,7 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="SewingKit">
-        <nominal>55</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>35</min>
