@@ -815,7 +815,6 @@
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-		<cargo preset="toolsCity" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
