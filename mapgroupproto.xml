@@ -1332,7 +1332,7 @@
 		<group name="Land_Office1" lootmax="20">
 				<usage name="Town" />
 				<usage name="Office" />
-				<container name="lootFloor" lootmax="12">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -1372,7 +1372,7 @@
 						<point pos="-3.726073 0.369621 -9.230714" range="1.199951" height="1.976373" />
 						<point pos="6.234863 -2.134033 -13.759033" range="1.199951" height="1.981427" />
 				</container>
-				<container name="lootshelves" lootmax="12">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -1450,7 +1450,7 @@
 						<point pos="5.273925 -3.771248 -2.246583" range="0.134375" height="0.264999" />
 						<point pos="5.322753 -3.391251 -2.802002" range="0.134375" height="0.260002" />
 				</container>
-				<container name="lootweapons" lootmax="2">
+				<container name="lootweapons" lootmax="6">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="3.806152 6.236755 -6.465819" range="0.100000" height="0.250000" />
@@ -1481,7 +1481,7 @@
 		<group name="Land_Office2" lootmax="20">
 				<usage name="Town" />
 				<usage name="Office" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -1523,7 +1523,7 @@
 						<point pos="1.944173 -0.160730 -20.761707" range="1.199951" height="2.000002" />
 						<point pos="-5.318318 -8.258746 0.365776" range="1.199951" height="1.999957" />
 				</container>
-				<container name="lootshelves" lootmax="12">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -1603,7 +1603,7 @@
 						<point pos="-1.308158 -2.149738 5.659406" range="0.375000" height="0.937485" />
 						<point pos="2.460829 6.488363 -1.776045" range="0.856250" height="2.000006" />
 				</container>
-				<container name="lootweapons" lootmax="2">
+				<container name="lootweapons" lootmax="6">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="4.007827 -8.164742 -17.227890" range="0.100000" height="0.250000" />
