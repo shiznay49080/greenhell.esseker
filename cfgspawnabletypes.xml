@@ -3728,4 +3728,31 @@
 		</attachments>
 	</type>
 -->
+
+    <!-- Windstride clothing -->
+    <type name="Canvas_Backpack_Base" />
+    <type name="Canvas_Backpack_Black" />
+    <type name="Canvas_Backpack_White" />
+    <type name="Canvas_Backpack_Red" />
+    <type name="Canvas_Backpack_Blue" />
+    <type name="Canvas_Backpack_Purple" />
+    <type name="Kneepads_Jeans_Base" />
+    <type name="Kneepads_Jeans_Black" />
+    <type name="Poncho_Red_Checkered" />
+    <type name="Poncho_Blue_Checkered" />
+    <type name="Poncho_Yellow_Checkered" />
+    <type name="Poncho_Brown" />
+    <type name="Poncho_Green" />
+    <type name="Poncho_White" />
+    <type name="Poncho_Red" />
+    <type name="Poncho_Black" />
+    <type name="Poncho_BlackAndWhite" />
+    <type name="Poncho_BlackAndWhite2" />
+    <type name="Military_Sweater" />
+    <type name="Military_Sweater_Red" />
+    <type name="Military_Sweater_Blue" />
+    <type name="Military_Sweater_Green" />
+    <type name="Military_Sweater_Black" />
+    <type name="Military_Sweater_White" />
+
 </spawnabletypes>
