@@ -13097,10 +13097,9 @@
 						<point pos="1.532591 -5.481859 -17.955566" range="0.375000" height="0.937500" />
 				</container>
 		</group>
-		<group name="Land_DieselPowerPlant_Tank_Big" >
+		<group name="Land_DieselPowerPlant_Tank_Big" lootmax="3">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="2">
-						<category name="food" />
+				<container name="lootFloor">
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="ground" />
@@ -13122,12 +13121,9 @@
 						<point pos="-4.377197 3.507858 -2.956787" range="0.397760" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_DieselPowerPlant_Tank_Small" lootmax="3">
+		<group name="Land_DieselPowerPlant_Tank_Small" lootmax="2">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="3">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
+				<container name="lootFloor">
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="ground" />

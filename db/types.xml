@@ -4358,7 +4358,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="ConstructionHelmet_Blue">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4371,7 +4371,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ConstructionHelmet_Lime">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4384,7 +4384,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ConstructionHelmet_Orange">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4397,7 +4397,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ConstructionHelmet_Red">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4410,7 +4410,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ConstructionHelmet_White">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4423,7 +4423,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ConstructionHelmet_Yellow">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -5995,10 +5995,10 @@
         <usage name="Police"/>
     </type>
     <type name="GardenLime">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10377,10 +10377,10 @@
         <usage name="Village"/>
     </type>
     <type name="Megaphone">
-        <nominal>20</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10759,10 +10759,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="MotoHelmet_Black">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10773,10 +10773,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_Blue">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10787,10 +10787,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_Green">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10801,10 +10801,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_Grey">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10815,10 +10815,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_Lime">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10829,10 +10829,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_Red">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10843,10 +10843,10 @@
         <usage name="Village"/>
     </type>
     <type name="MotoHelmet_White">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
