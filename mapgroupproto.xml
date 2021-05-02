@@ -15511,11 +15511,14 @@
 		</group>
 		<!-- Custom Additions -->
 		<group name="Land_Tenement_Big" lootmax="20">
-                <usage name="Town" />
 				<container name="FloorCivilian">
-						<category name="tools" />
+                        <usage name="Town" />
+                        <usage name="Village" />
+                        <category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="books" />
+                        <tag name="floor" />
 						<point pos="5.215211 15.123657 9.234131" range="0.100000" height="0.250000" />
 						<point pos="3.862917 -2.640669 10.493590" range="0.108582" height="0.188389" />
 						<point pos="6.573243 15.137600 8.968749" range="0.134375" height="0.335938" />
@@ -15669,11 +15672,14 @@
 				</container>
 		</group>
 		<group name="Land_Tenement_Small" lootmax="18">
-                <usage name="Town" />
 				<container name="FloorCivilian">
+                        <usage name="Town" />
+                        <usage name="Village" />
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="books" />
+                        <tag name="floor" />
 						<point pos="4.889892 2.802425 -10.342283" range="0.100000" height="0.188389" />
 						<point pos="6.562988 -6.529615 -2.167725" range="0.168750" height="0.357528" />
 						<point pos="-1.041626 -7.024171 -8.324950" range="0.168750" height="0.421875" />
