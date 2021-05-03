@@ -8469,7 +8469,7 @@
 		<group name="Land_Airfield_Small_Control" lootmax="20">
 				<usage name="Town" />
 				<usage name="Village" />
-				<container name="lootFloor" lootmax="15">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8500,7 +8500,7 @@
 						<point pos="-2.837984 -9.612991 12.207654" range="1.199951" height="1.545609" />
 						<point pos="-2.114243 -9.612991 -14.095312" range="1.199951" height="2.000000" />
 				</container>
-				<container name="lootshelves" lootmax="20">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8606,7 +8606,7 @@
 		<group name="Land_Airfield_Small_Hangar" lootmax="10">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="10">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8627,7 +8627,7 @@
 						<point pos="-4.803055 -3.382294 9.319357" range="1.199951" height="2.000000" />
 						<point pos="12.830264 -3.382294 -10.964568" range="1.199951" height="2.000000" />
 				</container>
-				<container name="lootshelves" lootmax="10">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8698,9 +8698,9 @@
 						<point pos="17.133739 -5.873707 -7.997792" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Airfield_ServiceHangar_L">
+		<group name="Land_Airfield_ServiceHangar_L" lootmax="15">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="6">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8749,7 +8749,7 @@
 						<point pos="8.472412 0.099998 -9.902101" range="1.199951" height="2.000000" />
 						<point pos="-4.875980 0.099998 8.370358" range="1.199951" height="2.000000" />
 				</container>
-				<container name="lootshelves" lootmax="6">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8771,7 +8771,7 @@
 						<point pos="16.915285 0.572227 9.447263" range="0.100000" height="0.250000" />
 						<point pos="17.248291 1.332222 9.385986" range="0.134375" height="0.260002" />
 				</container>
-				<container name="lootweapons" lootmax="6">
+				<container name="lootweapons" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="-14.123777 0.495850 -5.476563" range="0.237500" height="0.593750" />
@@ -8791,9 +8791,9 @@
 						<point pos="-13.424805 0.099998 8.749022" range="0.878174" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Airfield_ServiceHangar_R" lootmax="18">
+		<group name="Land_Airfield_ServiceHangar_R" lootmax="15">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="6">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8820,7 +8820,7 @@
 						<point pos="-14.866699 0.099998 -17.015627" range="1.199951" height="2.000000" />
 						<point pos="11.747559 0.099998 -18.757568" range="1.199951" height="1.384827" />
 				</container>
-				<container name="lootshelves" lootmax="6">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -8840,7 +8840,7 @@
 						<point pos="-8.667235 0.572227 9.402343" range="0.134375" height="0.264999" />
 						<point pos="-8.210206 0.952225 9.374509" range="0.100000" height="0.250000" />
 				</container>
-				<container name="lootweapons" lootmax="6">
+				<container name="lootweapons" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="0.077149 -1.098045 1.788086" range="0.193051" height="0.366436" />
@@ -15518,6 +15518,7 @@
 						<category name="containers" />
 						<category name="clothes" />
                         <category name="books" />
+                        <category name="food" />
                         <tag name="floor" />
 						<point pos="5.215211 15.123657 9.234131" range="0.100000" height="0.250000" />
 						<point pos="3.862917 -2.640669 10.493590" range="0.108582" height="0.188389" />
@@ -15679,6 +15680,7 @@
 						<category name="containers" />
 						<category name="clothes" />
                         <category name="books" />
+                        <category name="food" />
                         <tag name="floor" />
 						<point pos="4.889892 2.802425 -10.342283" range="0.100000" height="0.188389" />
 						<point pos="6.562988 -6.529615 -2.167725" range="0.168750" height="0.357528" />
