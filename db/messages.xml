@@ -43,13 +43,13 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
     -->
-<!--
+
     <message>
         <deadline>720</deadline>
         <shutdown>1</shutdown>
         <text>The server will restart in #tmin minutes.</text>
     </message>
--->
+
     <!-- welcome message -->
     <message>
         <delay>1</delay>
