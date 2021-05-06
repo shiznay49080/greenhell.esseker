@@ -2888,10 +2888,10 @@
         <usage name="School"/>
     </type>
     <type name="BrassKnuckles_Dull">
-        <nominal>10</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2914,7 +2914,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Beetcheck">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2927,7 +2927,7 @@
         <usage name="Village"/>
     </type>
     <type name="Breeches_Beige">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2939,7 +2939,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2951,7 +2951,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Blackcheck">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2963,7 +2963,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Blue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2975,7 +2975,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Browncheck">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2987,7 +2987,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Green">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2999,7 +2999,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Pink">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -3011,7 +3011,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_Red">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -3023,7 +3023,7 @@
         <usage name="Town"/>
     </type>
     <type name="Breeches_White">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -9931,10 +9931,10 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_Ruger1022_30Rnd">
-        <nominal>17</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12673,7 +12673,7 @@
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12686,10 +12686,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SKS">
-        <nominal>25</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
