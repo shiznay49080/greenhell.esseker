@@ -11063,7 +11063,7 @@
         <category name="tools"/>
     </type>
     <type name="NailBox">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -16097,7 +16097,7 @@
         <usage name="Town"/>
     </type>
     <type name="WoodAxe">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
