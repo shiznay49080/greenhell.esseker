@@ -9270,7 +9270,7 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
