@@ -3124,10 +3124,10 @@
         <category name="tools"/>
     </type>
     <type name="CZ527">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3152,16 +3152,17 @@
         <usage name="Police"/>
     </type>
     <type name="CZ75">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
+        <usage name="Village"/>
     </type>
     <type name="CableReel">
         <nominal>30</nominal>
@@ -4766,7 +4767,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4778,7 +4779,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Blue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4790,7 +4791,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Chernarus">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4802,7 +4803,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Green">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4814,7 +4815,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Khaki">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4826,7 +4827,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Mouthguard">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -4850,7 +4851,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Red">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4862,7 +4863,7 @@
         <usage name="Village"/>
     </type>
     <type name="DirtBikeHelmet_Visor">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -9815,10 +9816,10 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_Deagle_9rnd">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>8</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14334,10 +14335,10 @@
         <usage name="Village"/>
     </type>
     <type name="Spotlight">
-        <nominal>60</nominal>
+        <nominal>40</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14978,7 +14979,7 @@
         <usage name="Village"/>
     </type>
     <type name="TireRepairKit">
-        <nominal>40</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -15798,10 +15799,10 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>40</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>35</min>
         <quantmin>20</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
