@@ -3558,11 +3558,10 @@
 						<point pos="0.565918 -2.581047 0.268066" range="0.409375" height="1.023438" />
 				</container>
 		</group>
-		<group name="Land_Misc_Well_Pump_Blue" lootmax="2">
+		<group name="Land_Misc_Well_Pump_Blue" lootmax="1">
 				<usage name="Village" />
 				<container name="lootFloor">
 						<category name="tools" />
-						<category name="clothes" />
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="0.197451 0.161392 -0.196373" range="0.134375" height="0.335938" />
@@ -3572,11 +3571,10 @@
 						<point pos="-0.703212 -0.360474 -0.084845" range="0.319824" height="0.798584" />
 				</container>
 		</group>
-		<group name="Land_Misc_Well_Pump_Yellow" lootmax="2">
+		<group name="Land_Misc_Well_Pump_Yellow" lootmax="1">
 				<usage name="Village" />
 				<container name="lootFloor">
 						<category name="tools" />
-						<category name="clothes" />
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="-0.212863 -0.199158 0.309016" range="0.100000" height="0.250000" />
