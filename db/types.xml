@@ -3135,6 +3135,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="CZ61">
         <nominal>15</nominal>
@@ -9745,10 +9746,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_30Rnd">
-        <nominal>4</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -9817,7 +9818,7 @@
         <nominal>16</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9866,7 +9867,7 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_IJ70_8Rnd">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>20</min>
@@ -9909,7 +9910,7 @@
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>14</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9931,10 +9932,10 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_Ruger1022_30Rnd">
-        <nominal>10</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -10217,13 +10218,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <usage name="Coast"/>
-        <value name="Tier1"/>
         <tag name="shelves"/>
+        <usage name="Coast"/>
         <usage name="Village"/>
         <usage name="School"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="Matchbox">
         <nominal>20</nominal>
@@ -16486,10 +16484,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Zagorky">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16503,10 +16501,10 @@
         <usage name="Lunapark"/>
     </type>
     <type name="ZagorkyChocolate">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16519,10 +16517,10 @@
         <usage name="Lunapark"/>
     </type>
     <type name="ZagorkyPeanuts">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
