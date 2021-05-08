@@ -253,7 +253,8 @@
 				<item name="ZmijovkaCap_Brown" chance="0.10" />
 				<item name="ZmijovkaCap_Green" chance="0.10" />
 				<item name="ZmijovkaCap_Red" chance="0.10" />
-                <item name="PumpkinHelmet" chance="0.10" />
+                <item name="Headtorch_Black" chance="0.10" />
+                <item name="Headtorch_Grey" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10" name="bagsHunter">
 			<item name="CourierBag" chance="0.10" />
@@ -264,19 +265,19 @@
 		</attachments>
 		<!--   VILLAGE ATTACHMENTS   -->
 		<attachments chance="0.20" name="hatsVillage">
-				<item name="FlatCap_Black" chance="0.10" />
-				<item name="FlatCap_Blue" chance="0.10" />
-				<item name="FlatCap_Red" chance="0.10" />
-				<item name="FlatCap_Brown" chance="0.10" />
-				<item name="FlatCap_Grey" chance="0.10" />
-				<item name="FlatCap_BrownCheck" chance="0.10" />
-				<item name="FlatCap_GreyCheck" chance="0.10" />
-				<item name="FlatCap_BlackCheck" chance="0.10" />
-				<item name="RadarCap_Black" chance="0.10" />
-				<item name="RadarCap_Blue" chance="0.10" />
-				<item name="RadarCap_Brown" chance="0.10" />
-				<item name="RadarCap_Green" chance="0.10" />
-				<item name="RadarCap_Red" chance="0.10" />
+                <item name="FlatCap_Black" chance="0.10" />
+                <item name="FlatCap_Blue" chance="0.10" />
+                <item name="FlatCap_Red" chance="0.10" />
+                <item name="FlatCap_Brown" chance="0.10" />
+                <item name="FlatCap_Grey" chance="0.10" />
+                <item name="FlatCap_BrownCheck" chance="0.10" />
+                <item name="FlatCap_GreyCheck" chance="0.10" />
+                <item name="FlatCap_BlackCheck" chance="0.10" />
+                <item name="RadarCap_Black" chance="0.10" />
+                <item name="RadarCap_Blue" chance="0.10" />
+                <item name="RadarCap_Brown" chance="0.10" />
+                <item name="RadarCap_Green" chance="0.10" />
+                <item name="RadarCap_Red" chance="0.10" />
                 <item name="Headtorch_Black" chance="0.10" />
                 <item name="Headtorch_Grey" chance="0.10" />
     	</attachments>

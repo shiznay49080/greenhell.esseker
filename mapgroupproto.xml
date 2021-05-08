@@ -5635,10 +5635,9 @@
 						<point pos="1.381448 -0.275421 -1.024132" range="0.203125" height="0.507813" />
 				</container>
 		</group>
-		<group name="Land_Sawmill_Illuminanttower">
+		<group name="Land_Sawmill_Illuminanttower" lootmax="2">
 				<usage name="Industrial" />
 				<container name="lootFloor">
-						<category name="tools" />
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />

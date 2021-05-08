@@ -547,7 +547,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>20</nominal>
+        <nominal>16</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -3643,7 +3643,7 @@
         <category name="food"/>
     </type>
     <type name="ChildBag_Blue">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>8</min>
@@ -3655,7 +3655,7 @@
         <usage name="Village"/>
     </type>
     <type name="ChildBag_Green">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>8</min>
@@ -3667,7 +3667,7 @@
         <usage name="Village"/>
     </type>
     <type name="ChildBag_Red">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>8</min>
@@ -4543,7 +4543,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CoyoteBag_Brown">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -4555,7 +4555,7 @@
         <usage name="Military"/>
     </type>
     <type name="CoyoteBag_Green">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -4997,10 +4997,10 @@
         <usage name="Town"/>
     </type>
     <type name="DryBag_Black">
-        <nominal>8</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5010,10 +5010,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="DryBag_Blue">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5036,10 +5036,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="DryBag_Orange">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5062,10 +5062,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="DryBag_Yellow">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9816,10 +9816,10 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_Deagle_9rnd">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>6</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10896,7 +10896,7 @@
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14814,10 +14814,10 @@
         <usage name="Military"/>
     </type>
     <type name="TaloonBag_Blue">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14826,10 +14826,10 @@
         <usage name="Village"/>
     </type>
     <type name="TaloonBag_Green">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14841,10 +14841,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TaloonBag_Orange">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14856,10 +14856,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TaloonBag_Violet">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15799,7 +15799,7 @@
         <category name="tools"/>
     </type>
     <type name="WaterBottle">
-        <nominal>60</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>40</min>
@@ -15809,10 +15809,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="WaterproofBag_Green">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15821,10 +15821,10 @@
         <usage name="Coast"/>
     </type>
     <type name="WaterproofBag_Orange">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15833,10 +15833,10 @@
         <usage name="Coast"/>
     </type>
     <type name="WaterproofBag_Yellow">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
