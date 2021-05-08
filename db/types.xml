@@ -959,9 +959,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -1014,7 +1012,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
-        <usage name="Police"/>
+        <usage name="Town"/>
     </type>
     <type name="Ammo_9x39">
         <nominal>20</nominal>
