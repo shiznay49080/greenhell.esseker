@@ -15477,9 +15477,9 @@
 		</group>
 		<!-- Custom Additions -->
 		<group name="Land_Tenement_Big" lootmax="20">
+                <usage name="Town" />
+                <usage name="Village" />
 				<container name="FloorCivilian">
-                        <usage name="Town" />
-                        <usage name="Village" />
                         <category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -15625,7 +15625,6 @@
 				</container>
 				<container name="SniperPost" lootmax="2">
 						<category name="weapons" />
-						<usage name="Hunting" />
 						<point pos="-1.836304 21.903385 3.682861" range="0.237500" height="0.593750" />
 						<point pos="-1.862549 21.903385 -3.737854" range="0.237500" height="0.593750" />
 						<point pos="3.323974 21.903385 -7.820801" range="0.237500" height="0.593750" />
@@ -15639,9 +15638,9 @@
 				</container>
 		</group>
 		<group name="Land_Tenement_Small" lootmax="18">
+                <usage name="Town" />
+                <usage name="Village" />
 				<container name="FloorCivilian">
-                        <usage name="Town" />
-                        <usage name="Village" />
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -15759,7 +15758,6 @@
 				</container>
 				<container name="SniperPost" lootmax="2">
 						<category name="weapons" />
-						<usage name="Hunting" />
 						<point pos="3.208862 10.341135 -7.380310" range="0.237500" height="0.593750" />
 						<point pos="-1.966675 10.340734 -3.218078" range="0.237500" height="0.593750" />
 						<point pos="-1.972534 10.340734 4.157165" range="0.203125" height="0.507813" />
