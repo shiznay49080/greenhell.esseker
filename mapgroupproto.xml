@@ -6632,7 +6632,7 @@
 						<point pos="-3.220047 -0.696075 1.838330" range="1.018310" height="1.575073" />
 						<point pos="-3.111829 -0.696075 -1.503751" range="1.196045" height="1.702362" />
 				</container>
-				<container name="lootweapons">
+				<container name="lootweapons" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="4.590201 -0.270569 2.138198" range="0.134375" height="0.335938" />
@@ -7492,7 +7492,7 @@
 						<point pos="7.051305 -4.268127 6.184982" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_Barracks" lootmax="20">
+		<group name="Land_Tisy_Barracks" lootmax="15">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -7586,7 +7586,7 @@
 						<point pos="1.508791 0.688667 16.447512" range="0.349838" height="0.532295" />
 						<point pos="-2.371348 0.688667 16.679684" range="0.203125" height="0.507813" />
 				</container>
-				<container name="lootweapons" lootmax="8">
+				<container name="lootweapons" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="3.985354 -3.434326 6.267576" range="0.478125" height="0.533684" />
