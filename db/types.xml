@@ -6402,7 +6402,7 @@
         <usage name="Village"/>
     </type>
     <type name="Glock19">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
