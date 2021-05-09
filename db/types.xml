@@ -9635,7 +9635,7 @@
         <category name="food"/>
     </type>
     <type name="Mag_1911_7Rnd">
-        <nominal>20</nominal>
+        <nominal>16</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -9731,10 +9731,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_20Rnd">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -9840,7 +9840,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_FNX45_15Rnd">
-        <nominal>16</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>10</min>
@@ -9918,7 +9918,7 @@
         <usage name="Village"/>
     </type>
     <type name="Mag_Ruger1022_15Rnd">
-        <nominal>17</nominal>
+        <nominal>16</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -9988,10 +9988,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10044,7 +10044,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_UMP_25Rnd">
-        <nominal>18</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>12</min>
@@ -10099,7 +10099,7 @@
         <value name="Tier3"/>
     </type>
     <type name="MakarovIJ70">
-        <nominal>50</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -12712,16 +12712,18 @@
         <value name="Tier4"/>
     </type>
     <type name="SVD">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Saiga">
         <nominal>6</nominal>
