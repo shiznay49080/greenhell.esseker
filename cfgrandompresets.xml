@@ -278,8 +278,8 @@
                 <item name="RadarCap_Brown" chance="0.10" />
                 <item name="RadarCap_Green" chance="0.10" />
                 <item name="RadarCap_Red" chance="0.10" />
-                <item name="Headtorch_Black" chance="0.10" />
-                <item name="Headtorch_Grey" chance="0.10" />
+                <item name="Headtorch_Black" chance="0.15" />
+                <item name="Headtorch_Grey" chance="0.15" />
     	</attachments>
 		<attachments chance="0.20" name="handsVillage">
 				<item name="WoodAxe" chance="0.1" />
@@ -312,8 +312,8 @@
 				<item name="BaseballCap_Olive" chance="0.05" />
 				<item name="BaseballCap_Pink" chance="0.05" />
 				<item name="BaseballCap_Red" chance="0.05" />
-                <item name="Headtorch_Black" chance="0.10" />
-                <item name="Headtorch_Grey" chance="0.10" />
+                <item name="Headtorch_Black" chance="0.15" />
+                <item name="Headtorch_Grey" chance="0.15" />
 		</attachments>
 		<attachments chance="0.10" name="handsCity">
 				<item name="NailedBaseballBat" chance="1.0" />
