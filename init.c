@@ -94,6 +94,10 @@ class CustomMission: MissionServer
 				itemEnt = player.GetInventory().CreateInInventory("Plum");
 
 			SetRandomHealth(itemEnt);
+
+            // dust mask
+            itemEnt = itemTop.GetInventory().CreateInInventory("NioshFaceMask");
+            SetRandomHealth(itemEnt);
 		}
 	}
 };
