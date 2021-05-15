@@ -416,6 +416,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
+    <!-- Field Backpack -->
     <type name="AliceBag_Black">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -1573,6 +1574,7 @@
         <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
     </type>
     <!-- blaze -->
     <type name="B95">
@@ -1713,6 +1715,7 @@
         <category name="clothes"/>
         <usage name="Village"/>
     </type>
+    <!-- Ski Mask -->
     <type name="BalaclavaMask_Beige">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -1725,6 +1728,7 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Industrial"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
     <type name="BalaclavaMask_Black">
@@ -1742,8 +1746,6 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Police"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BalaclavaMask_Blackskull">
         <nominal>3</nominal>
@@ -1757,8 +1759,6 @@
         <category name="clothes"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BalaclavaMask_Blue">
         <nominal>5</nominal>
@@ -1774,8 +1774,6 @@
         <usage name="Industrial"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="BalaclavaMask_Green">
         <nominal>5</nominal>
@@ -1792,8 +1790,6 @@
         <usage name="Industrial"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="BalaclavaMask_Pink">
         <nominal>5</nominal>
@@ -1808,6 +1804,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="BalaclavaMask_White">
         <nominal>5</nominal>
@@ -1823,8 +1820,6 @@
         <usage name="Industrial"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="BallisticHelmet_Black">
         <nominal>4</nominal>
@@ -3405,8 +3400,8 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CargoPants_Black">
         <nominal>10</nominal>
@@ -3421,6 +3416,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CargoPants_Blue">
         <nominal>10</nominal>
@@ -3434,8 +3430,8 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CargoPants_Green">
         <nominal>10</nominal>
@@ -3449,8 +3445,8 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CargoPants_Grey">
         <nominal>10</nominal>
@@ -3465,6 +3461,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CatFoodCan">
         <nominal>6</nominal>
@@ -3639,6 +3636,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
     </type>
+    <!-- School Backpack -->
     <type name="ChildBag_Blue">
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
@@ -3650,6 +3648,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
+        <usage name="School"/>
     </type>
     <type name="ChildBag_Green">
         <nominal>12</nominal>
@@ -3662,6 +3661,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
+        <usage name="School"/>
     </type>
     <type name="ChildBag_Red">
         <nominal>12</nominal>
@@ -3674,6 +3674,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
+        <usage name="School"/>
     </type>
     <type name="Chips">
         <nominal>16</nominal>
@@ -4493,8 +4494,10 @@
         <category name="clothes"/>
         <usage name="Farm"/>
         <usage name="Village"/>
+        <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CowboyHat_black">
         <nominal>12</nominal>
@@ -4508,8 +4511,10 @@
         <category name="clothes"/>
         <usage name="Farm"/>
         <usage name="Village"/>
+        <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CowboyHat_darkBrown">
         <nominal>12</nominal>
@@ -4523,8 +4528,10 @@
         <category name="clothes"/>
         <usage name="Farm"/>
         <usage name="Village"/>
+        <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CowboyHat_green">
         <nominal>12</nominal>
@@ -4538,8 +4545,10 @@
         <category name="clothes"/>
         <usage name="Farm"/>
         <usage name="Village"/>
+        <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="CoyoteBag_Brown">
         <nominal>2</nominal>
@@ -4590,7 +4599,7 @@
         <category name="clothes"/>
     </type>
     <type name="DarkMotoHelmet_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4601,9 +4610,10 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_Blue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4612,10 +4622,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_Green">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4626,9 +4638,10 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_Grey">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4639,9 +4652,10 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_Lime">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4652,9 +4666,10 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_Red">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4665,9 +4680,10 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="DarkMotoHelmet_White">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -4678,6 +4694,7 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Deagle">
         <nominal>10</nominal>
@@ -6011,6 +6028,9 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="GardenLime">
         <nominal>20</nominal>
@@ -6048,6 +6068,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="GardenPlotGreenhouse">
         <nominal>0</nominal>
@@ -6593,8 +6614,6 @@
         <usage name="Farm"/>
         <usage name="Village"/>
         <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Guts">
         <nominal>0</nominal>
@@ -8352,6 +8371,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JoggingShoes_Blue">
         <nominal>5</nominal>
@@ -8365,6 +8385,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JoggingShoes_Red">
         <nominal>5</nominal>
@@ -8378,6 +8399,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JoggingShoes_Violet">
         <nominal>5</nominal>
@@ -8391,6 +8413,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JoggingShoes_White">
         <nominal>5</nominal>
@@ -8404,6 +8427,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitJacket_Blue">
         <nominal>5</nominal>
@@ -8415,7 +8439,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitJacket_Gray">
         <nominal>5</nominal>
@@ -8427,8 +8452,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitJacket_Green">
         <nominal>5</nominal>
@@ -8440,8 +8465,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitJacket_Red">
         <nominal>5</nominal>
@@ -8453,7 +8478,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitPants_Blue">
         <nominal>5</nominal>
@@ -8465,7 +8491,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitPants_Green">
         <nominal>5</nominal>
@@ -8477,8 +8504,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitPants_Grey">
         <nominal>5</nominal>
@@ -8490,8 +8517,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JumpsuitPants_Red">
         <nominal>5</nominal>
@@ -8503,7 +8530,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="JungleBoots_Beige">
         <nominal>5</nominal>
@@ -8570,6 +8598,7 @@
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
+    <!-- P1-87-L Scope -->
     <type name="KashtanOptic">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -8582,6 +8611,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- 1PN51 Scope (night vision) -->
     <type name="KazuarOptic">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -8595,6 +8625,7 @@
         <tag name="shelves"/>
         <usage name="Military"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="KitchenKnife">
         <nominal>50</nominal>
@@ -12108,7 +12139,6 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage name="Hunting"/>
-        <usage name="Town"/>
         <usage name="School"/>
     </type>
     <type name="PowerGenerator">
@@ -12668,6 +12698,7 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage name="Village"/>
+        <usage name="Town"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
@@ -12893,10 +12924,9 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage name="Coast"/>
-        <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="SardinesCan_Opened">
         <nominal>0</nominal>
@@ -14273,6 +14303,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
+        <usage name="Village"/>
     </type>
     <type name="SpaghettiCan_Opened">
         <nominal>0</nominal>
@@ -14821,6 +14852,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
         <nominal>5</nominal>
@@ -15593,8 +15625,8 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="TunaCan_Opened">
         <nominal>0</nominal>
@@ -18220,6 +18252,7 @@
         <category name="food"/>
         <tag name="shelves"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
         <value name="Tier1"/>
     </type>
     <type name="ZucchiniSeeds">
