@@ -22,14 +22,14 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7830" z="15007.5" r="210"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9330" z="14235" r="180"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7567.5" z="14685" r="180"/>
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8775" z="5155" r="52.5"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8814.06" z="5234.69" r="52.5"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8721" z="5538" r="52.5"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8733" z="5238" r="75"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8733" z="5261.44" r="75"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8737" z="5542" r="75"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8588" z="5383" r="150"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8625" z="5487" r="150"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8726" z="5364" r="195"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8982" z="5347" r="180"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8721.31" z="5385.88" r="195"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8966.38" z="5395.44" r="180"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9130" z="5432" r="157.5"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9182" z="5516" r="157.5"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8977.5" z="8197.5" r="60"/>
