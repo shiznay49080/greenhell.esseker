@@ -23,7 +23,6 @@
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
@@ -48,6 +47,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
     </type>
+    <!-- KA74 -->
     <type name="AK74">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
@@ -108,6 +108,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- KA-M -->
     <type name="AKM">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
@@ -133,7 +134,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -380,6 +380,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
     </type>
+    <!-- SVAL -->
     <type name="ASVAL">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -1583,6 +1584,7 @@
         <usage name="Military"/>
         <usage name="Police"/>
     </type>
+    <!-- blaze -->
     <type name="B95">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
@@ -3122,6 +3124,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
+    <!-- CR-527 -->
     <type name="CZ527">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -3138,6 +3141,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- CR-75 Skorpion -->
     <type name="CZ61">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -3150,6 +3154,7 @@
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
+    <!-- CR-75 -->
     <type name="CZ75">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -3162,6 +3167,9 @@
         <category name="weapons"/>
         <usage name="Police"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="CableReel">
         <nominal>30</nominal>
@@ -4240,6 +4248,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
+    <!-- Kolt 1911 -->
     <type name="Colt1911">
         <nominal>18</nominal>
         <lifetime>14400</lifetime>
@@ -4251,6 +4260,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="CombatBoots_Beige">
         <nominal>5</nominal>
@@ -4689,7 +4699,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Deagle_Gold">
         <nominal>3</nominal>
@@ -4701,7 +4711,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Village"/>
+        <usage name="Town"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -5120,7 +5130,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Town"/>
         <usage name="Village"/>
+        <usage name="Military"/>
     </type>
     <type name="Epinephrine">
         <nominal>15</nominal>
@@ -5148,6 +5160,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
     </type>
+    <!-- LAR -->
     <type name="FAL">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -5174,6 +5187,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- FX-45 -->
     <type name="FNX45">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -5185,8 +5199,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Fabric">
         <nominal>50</nominal>
@@ -6401,6 +6415,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
+    <!-- Mlock-91 -->
     <type name="Glock19">
         <nominal>12</nominal>
         <lifetime>7200</lifetime>
@@ -8234,6 +8249,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
     </type>
+    <!-- BK-18 -->
     <type name="Izh18">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -8248,6 +8264,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
     </type>
+    <!-- BK-43 -->
     <type name="Izh43Shotgun">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -9283,6 +9300,7 @@
         <category name="explosives"/>
         <usage name="Military"/>
     </type>
+    <!-- M4 -->
     <type name="M4A1">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -9542,6 +9560,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- MKII -->
     <type name="MKII">
         <nominal>40</nominal>
         <lifetime>14400</lifetime>
@@ -9555,6 +9574,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
+    <!-- SG5-K -->
     <type name="MP5K">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
@@ -10102,6 +10122,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- IJ-70 -->
     <type name="MakarovIJ70">
         <nominal>40</nominal>
         <lifetime>28800</lifetime>
@@ -10114,6 +10135,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="ManSuit_Beige">
         <nominal>3</nominal>
@@ -10707,6 +10729,7 @@
         <tag name="shelves"/>
         <usage name="Medic"/>
     </type>
+    <!-- Mosin -->
     <type name="Mosin9130">
         <nominal>25</nominal>
         <lifetime>28800</lifetime>
@@ -10947,6 +10970,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
+    <!-- BK-133 -->
     <type name="Mp133Shotgun">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -12599,6 +12623,7 @@
         <category name="clothes"/>
         <usage name="Industrial"/>
     </type>
+    <!-- Repeater Carbine -->
     <type name="Repeater">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
@@ -12613,6 +12638,7 @@
         <usage name="Village"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Rice">
         <nominal>8</nominal>
@@ -12670,6 +12696,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
+    <!-- Sporter 22 -->
     <type name="Ruger1022">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -12684,8 +12711,8 @@
         <usage name="Village"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
+    <!-- SK 59/66 -->
     <type name="SKS">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -12697,8 +12724,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="SKS_Bayonet">
         <nominal>10</nominal>
@@ -12715,6 +12742,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <!-- VSD -->
     <type name="SVD">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -12727,6 +12755,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- Vaiga -->
     <type name="Saiga">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -15610,6 +15639,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
+    <!-- USG-45 -->
     <type name="UMP45">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -15762,6 +15792,7 @@
         <category name="clothes"/>
         <usage name="Village"/>
     </type>
+    <!-- VSS -->
     <type name="VSS">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
@@ -15963,6 +15994,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
+    <!-- M70 Tundra -->
     <type name="Winchester70">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -15976,6 +16008,7 @@
         <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="WolfMask">
         <nominal>0</nominal>

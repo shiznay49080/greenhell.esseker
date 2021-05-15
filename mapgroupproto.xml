@@ -8654,11 +8654,13 @@
 		</group>
 		<group name="Land_Airfield_Hangar_Green" lootmax="6">
 				<usage name="Industrial" />
+                <usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="food" />
+                        <category name="explosives" />
 						<tag name="ground" />
 						<tag name="floor" />
 						<tag name="shelves" />
