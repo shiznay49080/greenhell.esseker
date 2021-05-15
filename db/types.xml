@@ -513,7 +513,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
+        <usage name="Town"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
         <nominal>8</nominal>
@@ -526,8 +526,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -541,7 +539,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
         <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -557,8 +554,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="AmmoBox_380_35rnd">
         <nominal>12</nominal>
@@ -570,7 +566,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Village"/>
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
@@ -726,7 +721,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x39_20Rnd">
@@ -797,7 +791,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
+        <usage name="Town"/>
     </type>
     <type name="Ammo_308Win">
         <nominal>40</nominal>
@@ -812,7 +806,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="Village"/>
     </type>
     <type name="Ammo_308WinTracer">
         <nominal>15</nominal>
@@ -826,7 +820,6 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -857,7 +850,6 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Police"/>
     </type>
     <type name="Ammo_45ACP">
         <nominal>40</nominal>
@@ -871,7 +863,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Village"/>
     </type>
     <type name="Ammo_545x39">
         <nominal>30</nominal>
@@ -1012,7 +1003,6 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
         <usage name="Town"/>
     </type>
     <type name="Ammo_9x39">
@@ -9456,7 +9446,9 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
+    <!-- RVN Sights -->
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -9469,6 +9461,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Black">
         <nominal>5</nominal>
@@ -9534,6 +9527,7 @@
         <category name="explosives"/>
         <usage name="Military"/>
     </type>
+    <!-- Combat Sights -->
     <type name="M68Optic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -9545,6 +9539,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
     </type>
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
@@ -9603,6 +9598,7 @@
         <usage name="Police"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="MP5_PlasticHndgrd">
         <nominal>5</nominal>
@@ -9677,6 +9673,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
     <type name="Mag_AK101_30Rnd">
@@ -9816,6 +9813,7 @@
         <usage name="Hunting"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_CZ61_20Rnd">
         <nominal>12</nominal>
@@ -9841,6 +9839,9 @@
         <category name="weapons"/>
         <usage name="Police"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mag_Deagle_9rnd">
         <nominal>8</nominal>
@@ -9852,7 +9853,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Mag_FAL_20Rnd">
         <nominal>6</nominal>
@@ -9865,7 +9866,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Mag_FNX45_15Rnd">
@@ -9905,6 +9905,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="Tier1"/>
     </type>
     <type name="Mag_MP5_15Rnd">
         <nominal>10</nominal>
@@ -9931,6 +9933,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -9945,6 +9948,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="Mag_Ruger1022_15Rnd">
         <nominal>16</nominal>
@@ -9958,6 +9964,8 @@
         <category name="weapons"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="Mag_Ruger1022_30Rnd">
         <nominal>12</nominal>
@@ -9974,6 +9982,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- 30rd Coupled Standardized Mag -->
     <type name="Mag_STANAGCoupled_30Rnd">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -10024,6 +10033,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -10038,6 +10048,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
@@ -10091,7 +10102,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Mag_VSS_10Rnd">
@@ -10105,9 +10115,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <!-- Revolver -->
     <type name="Magnum">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -10119,6 +10129,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Village"/>
+        <usage name="Town"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -10136,6 +10147,8 @@
         <tag name="shelves"/>
         <usage name="Village"/>
         <usage name="Town"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="ManSuit_Beige">
         <nominal>3</nominal>
@@ -11272,6 +11285,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
+    <!-- PSO-1-1 Scope -->
     <type name="PSO11Optic">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -11285,6 +11299,7 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
+    <!-- PSO-1 Scope -->
     <type name="PSO1Optic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -11297,6 +11312,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- PU Scope -->
     <type name="PUScopeOptic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
