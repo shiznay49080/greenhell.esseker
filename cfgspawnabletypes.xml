@@ -2224,6 +2224,19 @@
 	</type>
 -->
 	<!--  END OF WEAPONS  -->
+    <type name="AmmoBox">
+		<cargo chance="1.00">
+			<item name="AmmoBox_00buck_10rnd" chance="0.20" />
+			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.20" />
+			<item name="AmmoBox_380_35rnd" chance="0.20" />
+			<item name="AmmoBox_9x19_25rnd" chance="0.20" />
+			<item name="AmmoBox_45ACP_25rnd" chance="0.20" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.20" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.20" />
+		</cargo>
+    </type>
+
 	<type name="PersonalRadio">
 		<attachments chance="0.30">
 			<item name="Battery9V" chance="1.00" />
