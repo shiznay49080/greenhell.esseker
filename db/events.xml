@@ -54,8 +54,8 @@
     </event>
     <event name="AnimalCow">
         <nominal>5</nominal>
-        <min>2</min>
-        <max>3</max>
+        <min>3</min>
+        <max>4</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -66,11 +66,11 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_BosTaurusF_Brown"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_BosTaurusF_Brown"/>
             <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_BosTaurusF_Spotted"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_BosTaurusF_White"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_BosTaurus_Brown"/>
-            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_BosTaurus_Spotted"/>
+            <child lootmax="0" lootmin="0" max="2" min="0" type="Animal_BosTaurusF_White"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_BosTaurus_Brown"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_BosTaurus_Spotted"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_BosTaurus_White"/>
         </children>
     </event>
@@ -94,8 +94,8 @@
     </event>
     <event name="AnimalGoat">
         <nominal>10</nominal>
-        <min>1</min>
-        <max>3</max>
+        <min>3</min>
+        <max>4</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -106,10 +106,10 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapraHircusF"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CapraHircusF"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Brown"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_White"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapraHircus_White"/>
         </children>
     </event>
     <event name="AnimalPig">
@@ -132,7 +132,7 @@
     <event name="AnimalRoeDeer">
         <nominal>12</nominal>
         <min>2</min>
-        <max>4</max>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -149,8 +149,8 @@
     </event>
     <event name="AnimalSheep">
         <nominal>8</nominal>
-        <min>4</min>
-        <max>5</max>
+        <min>2</min>
+        <max>3</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>

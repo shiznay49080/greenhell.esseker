@@ -16,7 +16,7 @@
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11752.9" z="5177.76" r="50"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11887.2" z="5175.32" r="90"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11278.6" z="5675.13" r="90"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8829.17" z="6084.17" r="142.5"/>
+        <zone name="Graze" smin="1" smax="1" dmin="0" dmax="0" x="8829.17" z="6084.17" r="142.5"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9680.42" z="6236.46" r="75"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8845.42" z="4773.44" r="60"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9219.17" z="4905" r="75"/>
@@ -115,7 +115,7 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7670.75" z="6579.13" r="80"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8870.21" z="6956.36" r="112.5"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12667" z="5842" r="90"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11837" z="6326" r="90"/>
+        <zone name="Graze" smin="1" smax="1" dmin="0" dmax="0" x="11837" z="6326" r="90"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12209" z="5549.5" r="67.5"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11680" z="6507" r="90"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12175" z="6685" r="80"/>
