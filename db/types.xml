@@ -467,11 +467,12 @@
         <category name="containers"/>
         <usage name="Military"/>
     </type>
+    <!-- Boxed 12ga 00 Buckshots -->
     <type name="AmmoBox_00buck_10rnd">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -492,11 +493,12 @@
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
+    <!-- Boxed 12ga Rifled Slugs -->
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -559,9 +561,10 @@
         <category name="weapons"/>
         <usage name="Town"/>
     </type>
+    <!-- Boxed .380 ACP Rounds -->
     <type name="AmmoBox_380_35rnd">
         <nominal>12</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
@@ -571,6 +574,7 @@
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
+    <!-- Boxed .45 ACP Rounds -->
     <type name="AmmoBox_45ACP_25rnd">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -738,6 +742,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- 12ga 00 Buckshots -->
     <type name="Ammo_12gaPellets">
         <nominal>40</nominal>
         <lifetime>14400</lifetime>
@@ -767,6 +772,7 @@
         <tag name="shelves"/>
         <usage name="Police"/>
     </type>
+    <!-- 12ga Rifled Slugs -->
     <type name="Ammo_12gaSlug">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
@@ -778,6 +784,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
+        <usage name="Police"/>
         <usage name="Farm"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
