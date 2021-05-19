@@ -9383,6 +9383,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- SG5-K Folding buttstock -->
     <type name="M4_MPBttstck">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9395,6 +9396,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- SG5-K Rail Handguard -->
     <type name="M4_MPHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9407,6 +9409,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- M4-A1 Telescopic Buttstock -->
     <type name="M4_OEBttstck">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9419,6 +9422,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- M4-A1 Polymer Handguard -->
     <type name="M4_PlasticHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9431,6 +9435,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- M4-A1 Rail Handguard -->
     <type name="M4_RISHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9575,6 +9580,7 @@
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
+    <!-- M4-A1 Bayonet -->
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
@@ -9618,6 +9624,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
+    <!-- SG5-K Compensator -->
     <type name="MP5_Compensator">
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
@@ -9634,6 +9641,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <!-- SG5-K Polymer Handguard -->
     <type name="MP5_PlasticHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9647,6 +9655,7 @@
         <usage name="Military"/>
         <usage name="Police"/>
     </type>
+    <!-- SG5-K Rail Handguard -->
     <type name="MP5_RailHndgrd">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9660,6 +9669,7 @@
         <usage name="Military"/>
         <usage name="Police"/>
     </type>
+    <!-- SG5-K Folding buttstock -->
     <type name="MP5k_StockBttstck">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -13023,26 +13033,26 @@
         <value name="Tier4"/>
     </type>
     <type name="Scout_Chernarus">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
     <type name="Scout_Livonia">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
