@@ -21,8 +21,8 @@
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="9592.97" z="5733.97" r="120"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="4" x="9345.56" z="5763.43" r="120"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="8339.88" z="5739.22" r="120"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="5" x="8199.19" z="5512.77" r="140"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="2" dmax="4" x="8030.43" z="5563.35" r="120"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="8199.19" z="5512.77" r="140"/>
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="5" x="8030.43" z="5563.35" r="120"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="10054.7" z="5626.45" r="50"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="9994.12" z="5689.8" r="50"/>
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="4" x="9449.44" z="5475.35" r="50"/>
@@ -76,7 +76,7 @@
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8193.31" z="5618.08" r="90"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8380.38" z="5509.05" r="90"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8248.41" z="5429.09" r="90"/>
-        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8040.51" z="5646.86" r="90"/>
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="8040.51" z="5646.86" r="90"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="8076.19" z="5780.47" r="90"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="9392.61" z="5822.4" r="90"/>
         <zone name="InfectedIndustrial" smin="2" smax="5" dmin="3" dmax="7" x="9042.65" z="7906.49" r="90"/>
