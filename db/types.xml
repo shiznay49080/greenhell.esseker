@@ -11711,10 +11711,10 @@
         <usage name="Farm"/>
     </type>
     <type name="PersonalRadio">
-        <nominal>35</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>25</min>
+        <restock>1800</restock>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
