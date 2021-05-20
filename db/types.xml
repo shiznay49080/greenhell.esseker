@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+    <!-- ATOG Scope -->
     <type name="ACOGOptic">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1624,11 +1625,12 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
+    <!-- Backup Iron Sights -->
     <type name="BUISOptic">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3166,10 +3168,10 @@
         <value name="Tier3"/>
     </type>
     <type name="CableReel">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5189,11 +5191,12 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- FNP45 MRD Scope -->
     <type name="FNP45_MRDSOptic">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8195,7 +8198,7 @@
         <value name="Tier4"/>
     </type>
     <type name="HuntingKnife">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -8207,11 +8210,12 @@
         <tag name="shelves"/>
         <usage name="Hunting"/>
     </type>
+    <!-- Hunting Scope -->
     <type name="HuntingOptic">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8269,7 +8273,7 @@
     </type>
     <!-- BK-18 -->
     <type name="Izh18">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -8284,10 +8288,10 @@
     </type>
     <!-- BK-43 -->
     <type name="Izh43Shotgun">
-        <nominal>20</nominal>
+        <nominal>16</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8609,10 +8613,10 @@
     </type>
     <!-- P1-87-L Scope -->
     <type name="KashtanOptic">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8622,7 +8626,7 @@
     </type>
     <!-- 1PN51 Scope (night vision) -->
     <type name="KazuarOptic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -8649,6 +8653,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
+    <!-- Kobra Sights -->
     <type name="KobraOptic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -9378,11 +9383,12 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- M4-A1 Carry Handle Sights -->
     <type name="M4_CarryHandleOptic">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9496,10 +9502,10 @@
     </type>
     <!-- RVN Sights -->
     <type name="M4_T3NRDSOptic">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9575,10 +9581,10 @@
     </type>
     <!-- Combat Sights -->
     <type name="M68Optic">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9604,7 +9610,7 @@
     </type>
     <!-- MKII -->
     <type name="MKII">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -9615,6 +9621,9 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Village"/>
+        <usage name="Town"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <!-- SG5-K -->
     <type name="MP5K">
@@ -9906,6 +9915,7 @@
         <category name="weapons"/>
         <usage name="Town"/>
     </type>
+    <!-- 20rd LAR Mag -->
     <type name="Mag_FAL_20Rnd">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
@@ -9933,6 +9943,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
+    <!-- 15rd Mlock-91 Mag -->
     <type name="Mag_Glock_15Rnd">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -9945,6 +9956,7 @@
         <category name="weapons"/>
         <usage name="Police"/>
     </type>
+    <!-- Mag IJ70 8Rnd -->
     <type name="Mag_IJ70_8Rnd">
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
@@ -9973,6 +9985,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
+    <!-- 30rd SG5-K Mag -->
     <type name="Mag_MP5_30Rnd">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
@@ -9988,6 +10001,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- 10rd MK II Mag -->
     <type name="Mag_MKII_10Rnd">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -10003,6 +10017,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
+    <!-- 15rd Sporter 22 Mag -->
     <type name="Mag_Ruger1022_15Rnd">
         <nominal>16</nominal>
         <lifetime>28800</lifetime>
@@ -10018,6 +10033,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
+    <!-- 30rd Sporter 22 Mag -->
     <type name="Mag_Ruger1022_30Rnd">
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
@@ -10046,6 +10062,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
+    <!-- 30rd Standardized Mag -->
     <type name="Mag_STANAG_30Rnd">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
@@ -10186,10 +10203,10 @@
     </type>
     <!-- IJ-70 -->
     <type name="MakarovIJ70">
-        <nominal>40</nominal>
+        <nominal>35</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10199,7 +10216,6 @@
         <usage name="Village"/>
         <usage name="Town"/>
         <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="ManSuit_Beige">
         <nominal>3</nominal>
@@ -11339,7 +11355,7 @@
     <!-- PSO-1-1 Scope -->
     <type name="PSO11Optic">
         <nominal>5</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
@@ -11349,6 +11365,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <!-- PSO-1 Scope -->
     <type name="PSO1Optic">
@@ -11811,6 +11828,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
+    <!-- Handgun Scope -->
     <type name="PistolOptic">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -11822,9 +11840,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
+    <!-- Pistol Suppressor -->
     <type name="PistolSuppressor">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -12662,11 +12681,12 @@
         <usage name="Industrial"/>
         <usage name="Hunting"/>
     </type>
+    <!-- Baraka Sights -->
     <type name="ReflexOptic">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12677,6 +12697,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+    <!-- Reflective Vest -->
     <type name="ReflexVest">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -12751,10 +12772,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Rope">
-        <nominal>70</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12781,10 +12802,10 @@
     </type>
     <!-- SK 59/66 -->
     <type name="SKS">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16067,7 +16088,7 @@
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

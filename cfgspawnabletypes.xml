@@ -1796,9 +1796,11 @@
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
-		<attachments chance="0.15">
+<!--
+        <attachments chance="0.15">
 			<item name="FNP45_MRDSOptic" chance="1.00" />
 		</attachments>
+    -->
 	</type>
 	<type name="CZ61">
 		<attachments chance="0.10">
@@ -1822,13 +1824,15 @@
 			<item name="Mag_MP5_15Rnd" chance="0.5" />
 			<item name="Mag_MP5_30Rnd" chance="0.5" />
 		</attachments>
-		<attachments chance="0.20">
+<!--
+        <attachments chance="0.20">
 			<item name="BUISOptic" chance="0.30" />
 			<item name="M68Optic" chance="0.20" />
 			<item name="M4_T3NRDSOptic" chance="0.20" />
 			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
+    -->
 		<attachments chance="0.10">
 			<item name="MP5_Compensator" chance="1.00" />
 		</attachments>
@@ -1841,6 +1845,7 @@
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
 		<!-- Mag_UMP_25Rnd -->
+        <!--
 		<attachments chance="0.30">
 			<item name="BUISOptic" chance="0.15" />
 			<item name="M68Optic" chance="0.15" />
@@ -1848,6 +1853,7 @@
 			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.30" />
 		</attachments>
+    -->
 		<attachments chance="0.05">
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
@@ -1871,12 +1877,14 @@
 		<attachments chance="0.08">
 			<item name="Mag_VAL_20Rnd" chance="1.00" />
 		</attachments>
+        <!--
 		<attachments chance="0.30">
 			<item name="BUISOptic" chance="0.15" />
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ReflexOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
 		</attachments>	
+    -->
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
@@ -2050,6 +2058,7 @@
 		<attachments chance="1.00">
 			<item name="Fal_OeBttstck" chance="1.00" />
 		</attachments>
+        <!--
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.20" />
 			<item name="M68Optic" chance="0.20" />
@@ -2057,6 +2066,7 @@
 			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.20" />
 		</attachments>
+    -->
 		<attachments chance="0.10">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
 		</attachments>
