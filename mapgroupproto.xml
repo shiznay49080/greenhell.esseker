@@ -10704,7 +10704,7 @@
 						<point pos="-0.244630 -1.791367 1.192138" range="0.591982" height="2.000000" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Misc_TrailRoof_Small">
+		<group name="Land_Misc_TrailRoof_Small" lootmax="1">
 				<usage name="Hunting" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -10770,6 +10770,7 @@
 						<point pos="-0.468879 -0.264908 -1.443295" range="1.003906" height="1.996796" />
 				</container>
 		</group>
+        <!--
 		<group name="Land_Boat_Small1" lootmax="3">
 				<usage name="Coast" />
 				<container name="lootFloor">
@@ -10831,6 +10832,7 @@
 						<point pos="-0.746227 -0.397102 0.430710" range="0.427940" height="0.253947" flags="32" />
 				</container>
 		</group>
+    -->
 		<group name="Land_Camp_House_red" lootmax="4">
 				<usage name="Hunting" />
 				<container name="lootFloor">
@@ -12729,10 +12731,10 @@
 						<point pos="0.266235 -0.883638 0.025391" range="0.646644" height="0.490490" />
 				</container>
 		</group>
-		<group name="Land_Castle_Bastion2" >
+		<group name="Land_Castle_Bastion2" lootmax="4">
 				<usage name="Hunting" />
 				<usage name="Village" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -12988,11 +12990,12 @@
 						<point pos="1.666260 -1.235449 -3.483765" range="0.134375" height="0.191683" />
 				</container>
 		</group>
-		<group name="Land_Tower_TC5" >
+		<group name="Land_Tower_TC5">
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
+                        <category name="clothes" />
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="ground" />
@@ -13003,7 +13006,7 @@
 						<point pos="-1.646851 2.940147 1.600342" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tower_TC6" >
+		<group name="Land_Tower_TC6">
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
@@ -13382,7 +13385,7 @@
 		</group>
 		<group name="Land_Shed_Closed_Small1" lootmax="2">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13399,9 +13402,9 @@
 						<point pos="-1.187866 -1.344437 1.778076" range="1.153351" height="2.000000" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Shed_Closed_Small2" >
+		<group name="Land_Shed_Closed_Small2" lootmax="2">
 				<usage name="Industrial" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13417,9 +13420,9 @@
 						<point pos="-1.333984 -1.394053 -0.846192" range="1.199951" height="2.000000" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Ruin_Mil_ControlTower" >
+		<group name="Land_Ruin_Mil_ControlTower" lootmax="2">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13433,9 +13436,9 @@
 						<point pos="2.732788 -2.578871 -1.062012" range="0.517456" height="1.293640" />
 				</container>
 		</group>
-		<group name="Land_Ruin_HouseSmall1" >
+		<group name="Land_Ruin_HouseSmall1" lootmax="2">
 				<usage name="Village" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13451,9 +13454,9 @@
 						<point pos="2.186035 -2.168509 2.855713" range="0.744629" height="1.861572" />
 				</container>
 		</group>
-		<group name="Land_Ruin_HouseSmall1_NoIvy" >
+		<group name="Land_Ruin_HouseSmall1_NoIvy" lootmax="2">
 				<usage name="Village" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13521,9 +13524,9 @@
 						<point pos="1.097656 -1.838024 -2.161865" range="0.208008" height="0.204199" />
 				</container>
 		</group>
-		<group name="Land_Ruin_HouseSmall2_NoIvy" >
+		<group name="Land_Ruin_HouseSmall2_NoIvy" lootmax="5">
 				<usage name="Village" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -13538,7 +13541,7 @@
 						<point pos="-3.504272 -2.488424 0.697997" range="0.492920" height="1.232300" />
 						<point pos="2.510254 1.231895 2.854004" range="0.771484" height="1.928711" />
 				</container>
-				<container name="lootshelves" lootmax="2">
+				<container name="lootshelves">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
