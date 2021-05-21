@@ -525,9 +525,9 @@
         </children>
     </event>
     <event name="ItemPlanks">
-        <nominal>20</nominal>
-        <min>10</min>
-        <max>25</max>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>10</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <saferadius>250</saferadius>

@@ -7289,7 +7289,7 @@
 						<point pos="-4.598347 -3.052094 3.351741" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_RadarB_Base" lootmax="12">
+		<group name="Land_Tisy_RadarB_Base" lootmax="8">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -7430,7 +7430,7 @@
 						<point pos="1.065750 3.506348 0.988708" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_RadarPlatform_Top" lootmax="5">
+		<group name="Land_Tisy_RadarPlatform_Top" lootmax="3">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -7746,7 +7746,7 @@
 						<point pos="0.864122 -1.997955 -0.622141" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Mil_GuardShed" lootmax="2">
+		<group name="Land_Mil_GuardShed" lootmax="1">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="weapons" />
@@ -8857,6 +8857,7 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_Radar_Tall">
+                <usage name="Industrial" />
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
