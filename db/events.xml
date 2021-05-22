@@ -525,20 +525,20 @@
         </children>
     </event>
     <event name="ItemWoodenPlanks">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <saferadius>250</saferadius>
-        <distanceradius>20</distanceradius>
+        <distanceradius>50</distanceradius>
         <cleanupradius>100</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="20" min="20" type="PileOfWoodenPlanks"/>
+            <child lootmax="0" lootmin="0" max="20" min="10" type="PileOfWoodenPlanks"/>
         </children>
     </event>
     <event name="Loot">
@@ -624,6 +624,7 @@
         <children>
             <child lootmax="5" lootmin="3" max="3" min="1" type="Land_Wreck_sed01_aban1_police"/>
             <child lootmax="5" lootmin="3" max="3" min="1" type="Land_Wreck_sed01_aban2_police"/>
+            <child lootmax="5" lootmin="3" max="3" min="1" type="Land_Wreck_Uaz"/>
         </children>
     </event>
     <event name="StaticSmallBoat">

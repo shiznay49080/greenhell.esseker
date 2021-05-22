@@ -11933,12 +11933,11 @@
 						<point pos="8.260949 -8.846191 -1.812472" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Wreck_UH1Y" lootmax="10">
+		<group name="Wreck_UH1Y" lootmax="6">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="clothes" />
 						<category name="weapons" />
 						<tag name="floor" />
 						<tag name="shelves" />
@@ -11961,12 +11960,11 @@
 						<point pos="-0.732910 -1.856918 0.940430" range="1.199951" height="1.900002" />
 				</container>
 		</group>
-		<group name="Wreck_Mi8" lootmax="10">
+		<group name="Wreck_Mi8" lootmax="6">
 				<usage name="Military" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="clothes" />
 						<category name="weapons" />
 						<tag name="floor" />
 						<tag name="shelves" />
@@ -12016,7 +12014,7 @@
 						<tag name="shelves" />
 				</container>
 		</group>
-		<group name="Land_Wreck_Volha_Police" lootmax="10">
+		<group name="Land_Wreck_Volha_Police" lootmax="8">
 				<usage name="Police" />
 				<container name="lootFloor">
 						<category name="tools" />
@@ -15773,5 +15771,24 @@
 						<point pos="4.635498 9.670334 -6.188660" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-
+        <group name="Land_Wreck_Uaz" lootmax="1">
+            <usage name="Police" />
+            <usage name="Military" />
+            <container name="lootFloor">
+                    <category name="weapons" />
+                    <tag name="floor" />
+                    <tag name="shelves" />
+                    <point pos="1.672654 -0.265442 -0.195427" range="0.387367" height="0.181305" />
+                    <point pos="1.746750 -0.259766 0.361112" range="0.156253" height="0.177795" />
+                    <point pos="0.439132 -0.276154 -0.529345" range="0.134375" height="0.335938" />
+                    <point pos="0.425411 -0.257477 0.486419" range="0.168750" height="0.421875" />
+                    <point pos="0.653404 -0.066956 -0.011987" range="0.100000" height="0.250000" />
+                    <point pos="-0.374241 -0.304047 -0.407834" range="0.196289" height="0.490723" />
+                    <point pos="-0.405989 -0.291016 0.358694" range="0.229492" height="0.573731" />
+                    <point pos="-1.465418 0.151215 -0.227352" range="0.409375" height="1.023438" />
+                    <point pos="-2.125782 0.116974 0.399090" range="0.203125" height="0.507690" />
+                    <point pos="-0.830931 -0.500488 -0.467392" range="0.110352" height="0.275880" />
+                    <point pos="-0.866100 -0.489319 0.377680" range="0.100000" height="0.250000" />
+            </container>
+        </group>
 </prototype>
