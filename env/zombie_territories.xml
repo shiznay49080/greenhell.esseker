@@ -145,8 +145,8 @@
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="8648.38" z="5437.26" r="75"/>
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="8334.99" z="5673.76" r="75"/>
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="7620.83" z="5585.31" r="75"/>
-        <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="6244.93" z="6075.2" r="75"/>
-        <zone name="InfectedVillage" smin="2" smax="3" dmin="3" dmax="7" x="6363.56" z="6186.42" r="75"/>
+        <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="6252.22" z="6066.87" r="50"/>
+        <zone name="InfectedVillage" smin="2" smax="3" dmin="3" dmax="7" x="6344.81" z="6186.42" r="50"/>
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="6345.35" z="6255.45" r="75"/>
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="6508.02" z="6081.34" r="75"/>
         <zone name="InfectedVillage" smin="0" smax="3" dmin="3" dmax="7" x="6181.67" z="6847.91" r="75"/>
