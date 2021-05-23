@@ -15774,7 +15774,7 @@
     <type name="UMP45">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -15784,6 +15784,7 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="USMCJacket_Desert">
         <nominal>5</nominal>
