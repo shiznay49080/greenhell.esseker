@@ -14932,7 +14932,7 @@
 						<proxy type="CivSedanHood_WineRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban1_police" lootmax="5">
+		<group name="Land_Wreck_sed01_aban1_police" lootmax="3">
 				<usage name="Police" />
 				<container name="loot">
                         <category name="tools" />
@@ -15044,7 +15044,7 @@
 						<proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban2_police" lootmax="5">
+		<group name="Land_Wreck_sed01_aban2_police" lootmax="3">
 				<usage name="Police" />
 				<container name="loot">
                         <category name="tools" />
@@ -15771,7 +15771,7 @@
 						<point pos="4.635498 9.670334 -6.188660" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-        <group name="Land_Wreck_Uaz" lootmax="1">
+        <group name="Land_Wreck_Uaz" lootmax="3">
             <usage name="Police" />
             <usage name="Military" />
             <container name="lootFloor">
