@@ -144,4 +144,5 @@
   <event name="VehicleV3SChassis" />
   <event name="VehicleV3SCargo" />
   <event name="VehicleTransitBus" />
+  <event name="AnimalTiger" />
 </eventposdef>
