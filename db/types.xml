@@ -3243,6 +3243,7 @@
         <category name="food"/>
         <usage name="Military"/>
     </type>
+    <!-- Hiking Pants -->
     <type name="CanvasPantsMidi_Beige">
         <nominal>2</nominal>
         <lifetime>900</lifetime>

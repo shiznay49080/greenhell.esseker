@@ -2,7 +2,7 @@
 <territory-type>
     <territory color="3321845247">
         <zone name="Rest" smin="1" smax="1" dmin="0" dmax="0" x="9158.92" z="5464.8" r="50"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5667.71" z="4545.83" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5387.71" z="4730.83" r="200"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5562.5" z="8675" r="300"/>
         <zone name="HuntingGround" smin="1" smax="1" dmin="0" dmax="0" x="8183.33" z="4650" r="100"/>
     </territory>
