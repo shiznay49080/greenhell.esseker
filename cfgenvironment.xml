@@ -42,6 +42,12 @@
 			<file usable="pig_territories" />
 		</territory>
 
+        <!-- tigers -->
+		<file path="env/tiger_territories.xml" />
+		<territory type="Herd" name="Tiger" behavior="DZWolfGroupBeh">
+			<file usable="tiger_territories" />
+		</territory>
+
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
