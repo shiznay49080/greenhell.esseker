@@ -471,7 +471,7 @@
     </type>
     <!-- Boxed 12ga 00 Buckshots -->
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
         <min>10</min>
@@ -497,7 +497,7 @@
     </type>
     <!-- Boxed 12ga Rifled Slugs -->
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
         <min>10</min>
@@ -510,7 +510,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="AmmoBox_22_50Rnd">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>180</restock>
         <min>8</min>
@@ -537,7 +537,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_308Win_20Rnd">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>180</restock>
         <min>8</min>
@@ -552,7 +552,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>16</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
         <min>10</min>
@@ -578,10 +578,10 @@
     </type>
     <!-- Boxed .45 ACP Rounds -->
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
-        <min>8</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -605,10 +605,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
-        <min>8</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -662,7 +662,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x39_20Rnd">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
         <min>7</min>
@@ -677,7 +677,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
         <min>3</min>
@@ -691,10 +691,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
-        <min>8</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -707,7 +707,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
         <min>7</min>
@@ -733,7 +733,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x39_20Rnd">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>180</restock>
         <min>3</min>
@@ -746,10 +746,10 @@
     </type>
     <!-- 12ga 00 Buckshots -->
     <type name="Ammo_12gaPellets">
-        <nominal>40</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>180</restock>
-        <min>30</min>
+        <min>25</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -776,7 +776,7 @@
     </type>
     <!-- 12ga Rifled Slugs -->
     <type name="Ammo_12gaSlug">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>180</restock>
         <min>20</min>
