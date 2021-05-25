@@ -6488,6 +6488,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
     </type>
+    <!-- Patrol Jacket -->
     <type name="GorkaEJacket_Autumn">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
@@ -9535,6 +9536,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <!-- Field Jacket -->
     <type name="M65Jacket_Black">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -9564,7 +9566,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Olive">
-        <nominal>8</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -9578,7 +9580,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Tan">
-        <nominal>8</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>2</min>
