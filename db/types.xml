@@ -7701,20 +7701,9 @@
         <category name="tools"/>
         <usage name="Industrial"/>
     </type>
+    <!-- Tactical Vest -->
     <type name="HighCapacityVest_Black">
-        <nominal>5</nominal>
-        <lifetime>14400</lifetime>
-        <restock>1800</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Military"/>
-    </type>
-    <type name="HighCapacityVest_Olive">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -7725,6 +7714,21 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="HighCapacityVest_Olive">
+        <nominal>4</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="HikingBootsLow_Beige">
         <nominal>5</nominal>
@@ -11979,7 +11983,7 @@
         <usage name="Military"/>
     </type>
     <type name="PlateCarrierVest">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -11990,6 +11994,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="PleurotusMushroom">
         <nominal>0</nominal>
