@@ -2157,7 +2157,7 @@
     <type name="BaseballBat">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>300</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -6656,9 +6656,9 @@
         <category name="tools"/>
     </type>
     <type name="Hacksaw">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -6669,9 +6669,9 @@
         <usage name="Farm"/>
     </type>
     <type name="Hammer">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -6694,9 +6694,9 @@
         <category name="tools"/>
     </type>
     <type name="HandSaw">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -14163,7 +14163,7 @@
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>900</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
