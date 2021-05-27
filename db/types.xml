@@ -2155,7 +2155,7 @@
         <value name="Tier3"/>
     </type>
     <type name="BaseballBat">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>15</min>
