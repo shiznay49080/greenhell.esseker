@@ -8787,7 +8787,7 @@
         <category name="food"/>
     </type>
     <type name="LargeGasCanister">
-        <nominal>15</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -10485,7 +10485,7 @@
         <usage name="Medic"/>
     </type>
     <type name="MediumGasCanister">
-        <nominal>15</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14184,7 +14184,7 @@
         <category name="tools"/>
     </type>
     <type name="SmallGasCanister">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
