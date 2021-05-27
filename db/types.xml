@@ -12826,10 +12826,10 @@
     </type>
     <!-- Sporter 22 -->
     <type name="Ruger1022">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>12</min>
+        <restock>1800</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
