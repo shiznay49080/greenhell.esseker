@@ -2231,8 +2231,6 @@
 				</container>
 				<container name="lootshelves">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
 						<category name="food" />
 						<category name="books" />
 						<tag name="shelves" />
@@ -2258,7 +2256,7 @@
 						<point pos="10.627869 -2.484140 -7.340886" range="0.443750" height="1.109373" />
 						<point pos="-2.880638 -1.958119 -4.005032" range="0.478125" height="1.195311" />
 				</container>
-				<container name="lootweapons" lootmax="3">
+				<container name="lootweapons" lootmax="2">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="10.676388 -2.329686 -1.434890" range="0.067526" height="0.168815" />
