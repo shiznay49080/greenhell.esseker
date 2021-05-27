@@ -2157,7 +2157,7 @@
     <type name="BaseballBat">
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -13946,7 +13946,7 @@
     <type name="Shovel">
         <nominal>40</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -13961,10 +13961,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Sickle">
-        <nominal>40</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>35</min>
+        <restock>1800</restock>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
