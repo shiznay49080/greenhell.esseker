@@ -14275,7 +14275,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Sneakers_Black">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14288,7 +14288,7 @@
         <usage name="Town"/>
     </type>
     <type name="Sneakers_Gray">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14301,7 +14301,7 @@
         <usage name="Town"/>
     </type>
     <type name="Sneakers_Green">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14314,7 +14314,7 @@
         <usage name="Town"/>
     </type>
     <type name="Sneakers_Red">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14327,7 +14327,7 @@
         <usage name="Town"/>
     </type>
     <type name="Sneakers_White">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14340,10 +14340,10 @@
         <usage name="Town"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14351,10 +14351,10 @@
         <category name="food"/>
     </type>
     <type name="SodaCan_Fronta">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14362,10 +14362,10 @@
         <category name="food"/>
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14373,10 +14373,10 @@
         <category name="food"/>
     </type>
     <type name="SodaCan_Pipsi">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14384,10 +14384,10 @@
         <category name="food"/>
     </type>
     <type name="SodaCan_Spite">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14395,7 +14395,7 @@
         <category name="food"/>
     </type>
     <type name="SpaghettiCan">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
