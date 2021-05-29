@@ -16069,7 +16069,7 @@
         <usage name="Coast"/>
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>20</min>
