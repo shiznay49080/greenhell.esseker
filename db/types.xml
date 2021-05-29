@@ -1505,8 +1505,9 @@
         <category name="containers"/>
         <usage name="Military"/>
     </type>
+    <!-- Running Shoes -->
     <type name="AthleticShoes_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1518,7 +1519,7 @@
         <tag name="floor"/>
     </type>
     <type name="AthleticShoes_Blue">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1529,7 +1530,7 @@
         <category name="clothes"/>
     </type>
     <type name="AthleticShoes_Brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1540,7 +1541,7 @@
         <category name="clothes"/>
     </type>
     <type name="AthleticShoes_Green">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1551,7 +1552,7 @@
         <category name="clothes"/>
     </type>
     <type name="AthleticShoes_Grey">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -4972,10 +4973,10 @@
         <category name="food"/>
     </type>
     <type name="DressShoes_Beige">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4985,10 +4986,10 @@
         <usage name="Town"/>
     </type>
     <type name="DressShoes_Black">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4998,10 +4999,10 @@
         <usage name="Town"/>
     </type>
     <type name="DressShoes_Brown">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5011,10 +5012,10 @@
         <usage name="Town"/>
     </type>
     <type name="DressShoes_Sunburst">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5024,10 +5025,10 @@
         <usage name="Town"/>
     </type>
     <type name="DressShoes_White">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
