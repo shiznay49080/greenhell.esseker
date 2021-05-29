@@ -471,10 +471,10 @@
     </type>
     <!-- Boxed 12ga 00 Buckshots -->
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -552,10 +552,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -565,10 +565,10 @@
     </type>
     <!-- Boxed .380 ACP Rounds -->
     <type name="AmmoBox_380_35rnd">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>7</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -578,10 +578,10 @@
     </type>
     <!-- Boxed .45 ACP Rounds -->
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>7</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -733,7 +733,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x39_20Rnd">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
