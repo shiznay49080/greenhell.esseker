@@ -4109,6 +4109,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="floor" />
 						<point pos="-0.965499 -1.202384 0.381193" range="1.191729" height="1.996619" />
 						<point pos="2.575350 -1.196546 0.404408" range="1.191895" height="2.000779" />
@@ -4139,8 +4140,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
-						<category name="weapons" />
-						<category name="explosives" />
+                        <category name="vehiclesparts"/>
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="4.292608 -2.568088 13.710764" range="1.174561" height="2.000048" />
@@ -4167,6 +4167,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="-2.468829 -1.543565 -0.445114" range="0.110857" height="0.277142" />
@@ -4252,6 +4253,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="0.047798 -3.221408 -10.693378" range="0.943359" height="2.003609" />
@@ -4328,6 +4330,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="floor" />
 						<point pos="6.034173 -3.205065 -1.447673" range="0.444824" height="1.096178" />
 						<point pos="5.199451 -0.080173 2.637481" range="0.522949" height="1.307147" />
@@ -5322,6 +5325,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="3.199534 -1.567656 0.989755" range="0.546875" height="1.367188" />
@@ -5361,6 +5365,7 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
+                        <category name="vehiclesparts"/>
 						<tag name="ground" />
 						<tag name="floor" />
 						<point pos="-1.011474 -1.533806 -0.761231" range="1.199951" height="2.000000" />
@@ -7241,6 +7246,7 @@
 						<category name="weapons" />
 						<category name="books" />
 						<category name="explosives" />
+                        <category name="vehiclesparts"/>
 						<point pos="4.018076 -2.113770 -6.408950" range="0.100000" height="0.250000" />
 						<point pos="4.639100 -2.113770 -6.387214" range="0.100000" height="0.250000" />
 						<point pos="6.697138 -2.194611 4.513451" range="0.100000" height="0.250000" />
@@ -13247,6 +13253,7 @@
 						<category name="clothes" />
 						<category name="weapons" />
 						<category name="explosives" />
+                        <category name="vehiclesparts"/>
 						<tag name="floor" />
 						<point pos="2.150756 -3.597795 -4.109375" range="1.141479" height="2.000000" flags="32" />
 						<point pos="-1.387207 -3.597795 -4.137573" range="1.012085" height="2.000000" flags="32" />
