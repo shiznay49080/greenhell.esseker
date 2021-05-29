@@ -10844,7 +10844,7 @@
     </type>
     <!-- Mosin -->
     <type name="Mosin9130">
-        <nominal>25</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>15</min>
