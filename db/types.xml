@@ -9085,10 +9085,10 @@
         <category name="containers"/>
     </type>
     <type name="LeatherSewingKit">
-        <nominal>35</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
