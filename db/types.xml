@@ -10227,10 +10227,10 @@
     </type>
     <!-- IJ-70 -->
     <type name="MakarovIJ70">
-        <nominal>35</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>25</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10345,8 +10345,9 @@
         <usage name="Town"/>
         <usage name="Office"/>
     </type>
+    <!-- Strawberry Jam -->
     <type name="Marmalade">
-        <nominal>8</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
